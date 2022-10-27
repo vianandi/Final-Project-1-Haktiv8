@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
     private int id = 0;
     private RelativeLayout layoutTask;
     private LinearLayout layoutUtama;
-    private FloatingActionButton btn_add;
 
     @SuppressLint("SetTextI18n")
     @Override
@@ -46,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
         simpanTask = findViewById(R.id.simpanTask);
         batal = findViewById(R.id.batal);
         layoutTask = findViewById(R.id.layoutTask);
-//        btn_add = findViewById(R.id.btn_add);
         layoutUtama = findViewById(R.id.layoutUtama);
 
         //Local variabel dan view id
@@ -111,17 +109,6 @@ public class MainActivity extends AppCompatActivity {
                 layoutTask.setVisibility(View.GONE);
             }
         });
-
-//        btn_add.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                simpanTask.setVisibility(View.VISIBLE);
-//                batal.setVisibility(View.VISIBLE);
-//                batal.setText("Batal");
-//                layoutUtama.setVisibility(View.GONE);
-//                layoutTask.setVisibility(View.VISIBLE);
-//            }
-//        });
 
         //Metode klik untuk tombol membuat task baru
         buatTaskBaru.setOnClickListener(new View.OnClickListener() {
