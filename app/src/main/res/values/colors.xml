@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+<!--    AUTUMN    -->
+    <color name="pumpkin">#D55448</color>
+    <color name="cantaloupe">#FFA577</color>
+    <color name="cotton">#F9F9FF</color>
+    <color name="chocolate">#896E69</color>
+
+<!--    MODERN     -->
+    <color name="blue_black">#2F2E33</color>
+    <color name="cool_gray">#D5D6D2</color>
+    <color name="blue_cobalt">#3A5199</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    MARITIME LAGOON     -->
+    <color name="saltwater">#257985</color>
+    <color name="lagoon">#5EA8A7</color>
+    <color name="raspberry">#FF4447</color>
+    <!--  WHITE  -->
+
+<!--    CANDY    -->
+    <color name="orange">#F47D4A</color>
+    <color name="fuschia">#E1315B</color>
+    <color name="lemon_drop">#FFEC5C</color>
+    <color name="blue_raspberry">#008DCB</color>
+
+<!--    HELL    -->
+    <color name="red">#BC1212</color>
+    <color name="red_2">#601111</color>
+    <color name="black">#FF000000</color>
+
+<!--    RAIN FOREST    -->
+    <color name="cadet_blue">#004445</color>
+    <color name="blue_rain">#2C7873</color>
+    <color name="greenery">#6FB98F</color>
+    <!--  BLUE BLACK  -->
+
+<!--    NATURAL FOREST    -->
+    <color name="forest_green">#2E4600</color>
+    <color name="grass">#486B00</color>
+    <color name="lime">#A2C523</color>
+    <color name="brown_timberland">#7D4427</color>
+
+<!--    SEA    -->
+    <color name="deep_aqua">#003B46</color>
+    <color name="ocean">#07575B</color>
+    <color name="wave">#66A5AD</color>
+    <color name="sea_foam">#C4DFE6</color>
+
+<!--    BROWN CANYON    -->
+    <color name="crevice">#46211A</color>
+    <color name="cloud_shadow">#693D3D</color>
+    <color name="desert">#BA5536</color>
+    <color name="red_clay">#A43820</color>
+
+<!--    CHERRY WINTER    -->
+    <color name="berry">#A10115</color>
+    <color name="cherry">#D72C16</color>
+    <color name="chiffon">#F0EFEA</color>
+    <color name="smoke">#C0B2B5</color>
+
+<!--    SANTORINI    -->
+    <color name="grecian_blue">#2988BC</color>
+    <color name="sea">#2F4963</color>
+    <color name="plaster">#F4EADE</color>
+    <color name="coral">#ED8C72</color>
+
+<!--    LILAC LAVENDER    -->
+    <color name="lilac_1">#BFADCC</color>
+    <color name="lilac_2">#995E7C</color>
+    <color name="lilac_3">#683142</color>
+    <color name="lilac_4">#896790</color>
+    <color name="lilac_5">#F2BAE4</color>
+
+</resources>
